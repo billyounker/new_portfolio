@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prist | A Gatsby & Prismic Starter
 
 A light-themed starter powered by [Gatsby v2](https://www.gatsbyjs.org) and [Prismic](https://prismic.io/) to showcase portfolios and blogs.
@@ -293,3 +294,7 @@ In the right panel, select *JSON editor* and paste the following:
 }
 ```
 
+=======
+# new_portfolio
+new portfolio with gatsby
+>>>>>>> bedf4bd5a8dd060863df8e6f1be3368f14118ece
