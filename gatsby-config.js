@@ -28,7 +28,7 @@ module.exports = {
         options: {
             repositoryName: 'wdyportgolio', // (REQUIRED, replace with your own)
             linkResolver: () => post => `/${post.uid}`,
-        }
+        },
     },
     {
       resolve: `gatsby-plugin-manifest`,
